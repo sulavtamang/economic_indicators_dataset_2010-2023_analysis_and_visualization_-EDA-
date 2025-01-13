@@ -1,6 +1,4 @@
 /env
 /__pycache__
 instructions.txt
-/.ipynb_checkpoints
-/dataset/.ipynb_checkpoints
-/src/.ipynb_checkpoints
+**/.ipynb_checkpoints/
